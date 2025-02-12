@@ -52,7 +52,7 @@ Application web de gestion de base de données avec support Docker.
 
 ---
 
-### 4. 🛠️ [projetTestArthur](https://github.com/Arthur-Njigang/projetTestArthur)
+### 4. 🛠️ [projetTestArthur](https://github.com/Arthur-Njigang/projetTestJavaSpringBoot)
 **Description** :
 Application web développée en Java utilisant Spring Boot et Gradle.
 
@@ -64,7 +64,7 @@ Application web développée en Java utilisant Spring Boot et Gradle.
 **Détails** :
 - Basée sur Spring Boot et Gradle.
 - Conçue pour des services web dynamiques.
-- Repository GitHub : [Lien vers le projet](https://github.com/Arthur-Njigang/projetTestArthur)
+- Repository GitHub : [Lien vers le projet](https://github.com/Arthur-Njigang/projetprojetTestJavaSpringBoot)
 
 ---
 
