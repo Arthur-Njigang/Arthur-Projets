@@ -21,9 +21,9 @@ Application de gestion des composants électroniques, permettant d'enregistrer, 
 
 ---
 
-### 2. 🎓 [best_tutoring-main](https://github.com/Arthur-Njigang/best_tutoring-main)
+### 2. 🎓 [best_tutoring-main](https://github.com/Arthur-Njigang/best_tutoring_main)
 **Description** :
-Plateforme de tutorat en ligne permettant la mise en relation entre tuteurs et étudiants.
+Plateforme de tutorat en ligne permettant la mise en relation entre tuteurs et étudiants. Cette application a fait l'objet de travail de fin d'étude en vue de l'obtention de mon bachelier en informatique de gestion
 
 **Technologies** :
 - ☑ Laravel (PHP Framework, back-end)
